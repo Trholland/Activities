@@ -1,0 +1,359 @@
+[
+    {
+        "category": "Ice Cream",
+        "summary": "Hot Fudge Sundae",
+        "flavors": ["vanilla", "chocolate"],
+        "calories": 1350,
+        "ingredients": [
+            "vanilla ice cream",
+            "hot chocolate fudge",
+            "nuts"
+        ],
+        "dairy": true,
+        "allergens": ["dairy", "nuts"]
+    },
+    {
+        "category": "Ice Cream",
+        "summary": "Mint Chocolate Chip",
+        "flavors": ["mint", "chocolate"],
+        "calories": 300,
+        "ingredients": [
+            "mint ice cream",
+            "chocolate chips"
+        ],
+        "dairy": true,
+        "allergens": ["dairy"]
+    },
+    {
+        "category": "Ice Cream",
+        "summary": "Strawberry Sorbet",
+        "flavors": ["strawberry"],
+        "calories": 180,
+        "ingredients": [
+            "strawberry puree",
+            "sugar",
+            "water"
+        ],
+        "dairy": false,
+        "allergens": []
+    },
+    {
+        "category": "Ice Cream",
+        "summary": "Cookies and Cream",
+        "flavors": ["cookies", "cream"],
+        "calories": 350,
+        "ingredients": [
+            "cookies",
+            "vanilla ice cream"
+        ],
+        "dairy": true,
+        "allergens": ["dairy", "gluten"]
+    },
+    {
+        "category": "Ice Cream",
+        "summary": "Pistachio Ice Cream",
+        "flavors": ["pistachio"],
+        "calories": 400,
+        "ingredients": [
+            "pistachio nuts",
+            "cream"
+        ],
+        "dairy": true,
+        "allergens": ["dairy", "nuts"]
+    },
+    {
+        "category": "Ice Cream",
+        "summary": "Coffee Ice Cream",
+        "flavors": ["coffee"],
+        "calories": 320,
+        "ingredients": [
+            "coffee",
+            "cream",
+            "sugar"
+        ],
+        "dairy": true,
+        "allergens": ["dairy"]
+    },
+    {
+        "category": "Ice Cream",
+        "summary": "Chocolate Peanut Butter Swirl",
+        "flavors": ["chocolate", "peanut butter"],
+        "calories": 500,
+        "ingredients": [
+            "chocolate ice cream",
+            "peanut butter"
+        ],
+        "dairy": true,
+        "allergens": ["dairy", "peanuts"]
+    },
+    {
+        "category": "Ice Cream",
+        "summary": "Mango Coconut Ice Cream",
+        "flavors": ["mango", "coconut"],
+        "calories": 450,
+        "ingredients": [
+            "mango puree",
+            "coconut milk"
+        ],
+        "dairy": false,
+        "allergens": ["coconut"]
+    },
+    {
+        "category": "Ice Cream",
+        "summary": "Vanilla Bean Ice Cream",
+        "flavors": ["vanilla"],
+        "calories": 300,
+        "ingredients": [
+            "vanilla beans",
+            "cream"
+        ],
+        "dairy": true,
+        "allergens": ["dairy"]
+    },
+    {
+        "category": "Cake",
+        "summary": "Carrot Cake",
+        "flavors": ["carrot", "cream"],
+        "calories": 780,
+        "ingredients": [
+            "carrots",
+            "flour",
+            "cream cheese"
+        ],
+        "dairy": true,
+        "allergens": ["dairy", "gluten", "nuts"]
+    },
+    {
+        "category": "Cake",
+        "summary": "Chocolate Lava Cake",
+        "flavors": ["chocolate"],
+        "calories": 450,
+        "ingredients": [
+            "dark chocolate",
+            "butter",
+            "flour"
+        ],
+        "dairy": true,
+        "allergens": ["dairy", "gluten", "eggs"]
+    },
+    {
+        "category": "Cake",
+        "summary": "Lemon Drizzle Cake",
+        "flavors": ["lemon"],
+        "calories": 370,
+        "ingredients": [
+            "flour",
+            "sugar",
+            "lemons"
+        ],
+        "dairy": true,
+        "allergens": ["dairy", "gluten", "eggs"]
+    },
+    {
+        "category": "Cake",
+        "summary": "Red Velvet Cake",
+        "flavors": ["chocolate", "vanilla"],
+        "calories": 600,
+        "ingredients": [
+            "red cocoa",
+            "buttermilk",
+            "cream cheese"
+        ],
+        "dairy": true,
+        "allergens": ["dairy", "gluten", "eggs"]
+    },
+    {
+        "category": "Cake",
+        "summary": "Cheesecake",
+        "flavors": ["cream cheese", "vanilla"],
+        "calories": 450,
+        "ingredients": [
+            "cream cheese",
+            "sugar",
+            "graham cracker crust"
+        ],
+        "dairy": true,
+        "allergens": ["dairy", "gluten"]
+    },
+    {
+        "category": "Cake",
+        "summary": "Chocolate Fudge Cake",
+        "flavors": ["chocolate"],
+        "calories": 500,
+        "ingredients": [
+            "flour",
+            "cocoa powder",
+            "butter"
+        ],
+        "dairy": true,
+        "allergens": ["dairy", "gluten", "eggs"]
+    },
+    {
+        "category": "Cake",
+        "summary": "Angel Food Cake",
+        "flavors": ["vanilla"],
+        "calories": 200,
+        "ingredients": [
+            "egg whites",
+            "sugar",
+            "flour"
+        ],
+        "dairy": false,
+        "allergens": ["gluten", "eggs"]
+    },
+    {
+        "category": "Cake",
+        "summary": "Spice Cake",
+        "flavors": ["cinnamon", "nutmeg"],
+        "calories": 400,
+        "ingredients": [
+            "flour",
+            "spices",
+            "sugar"
+        ],
+        "dairy": true,
+        "allergens": ["dairy", "gluten", "eggs"]
+    },
+    {
+        "category": "Cake",
+        "summary": "Almond Flour Cake",
+        "flavors": ["almond", "vanilla"],
+        "calories": 350,
+        "ingredients": [
+            "almond flour",
+            "sugar",
+            "eggs"
+        ],
+        "dairy": false,
+        "allergens": ["nuts", "eggs"]
+    },
+    {
+        "category": "Pastry",
+        "summary": "Cannoli",
+        "flavors": ["vanilla", "cream"],
+        "calories": 882,
+        "ingredients": [
+            "puff pastry",
+            "cream",
+            "chocolate chips"
+        ],
+        "dairy": true,
+        "allergens": ["dairy", "gluten"]
+    },
+    {
+        "category": "Pastry",
+        "summary": "Croissant",
+        "flavors": ["buttery"],
+        "calories": 300,
+        "ingredients": [
+            "flour",
+            "butter",
+            "yeast"
+        ],
+        "dairy": true,
+        "allergens": ["dairy", "gluten"]
+    },
+    {
+        "category": "Pastry",
+        "summary": "Eclair",
+        "flavors": ["chocolate", "vanilla"],
+        "calories": 400,
+        "ingredients": [
+            "puff pastry",
+            "cream",
+            "chocolate glaze"
+        ],
+        "dairy": true,
+        "allergens": ["dairy", "gluten", "eggs"]
+    },
+    {
+        "category": "Pastry",
+        "summary": "Baklava",
+        "flavors": ["honey", "nuts"],
+        "calories": 350,
+        "ingredients": [
+            "phyllo dough",
+            "honey",
+            "walnuts"
+        ],
+        "dairy": false,
+        "allergens": ["nuts", "gluten"]
+    },
+    {
+        "category": "Pastry",
+        "summary": "Strudel",
+        "flavors": ["apple", "cinnamon"],
+        "calories": 300,
+        "ingredients": [
+            "phyllo dough",
+            "apples",
+            "cinnamon"
+        ],
+        "dairy": false,
+        "allergens": ["gluten"]
+    },
+    {
+        "category": "Pastry",
+        "summary": "Napoleon",
+        "flavors": ["vanilla", "cream"],
+        "calories": 500,
+        "ingredients": [
+            "puff pastry",
+            "pastry cream"
+        ],
+        "dairy": true,
+        "allergens": ["dairy", "gluten"]
+    },
+    {
+        "category": "Pastry",
+        "summary": "Danish Pastry",
+        "flavors": ["fruit", "cream"],
+        "calories": 420,
+        "ingredients": [
+            "butter",
+            "cream cheese",
+            "fruit filling"
+        ],
+        "dairy": true,
+        "allergens": ["dairy", "gluten"]
+    },
+    {
+        "category": "Pastry",
+        "summary": "Puff Pastry Twists",
+        "flavors": ["cheese", "herbs"],
+        "calories": 250,
+        "ingredients": [
+            "puff pastry",
+            "cheese",
+            "herbs"
+        ],
+        "dairy": true,
+        "allergens": ["dairy", "gluten"]
+    },
+    {
+        "category": "Pastry",
+        "summary": "Peach Galette",
+        "flavors": ["peach", "butter"],
+        "calories": 400,
+        "ingredients": [
+            "pie crust",
+            "peaches",
+            "sugar"
+        ],
+        "dairy": true,
+        "allergens": ["dairy", "gluten"]
+    },
+    {
+        "category": "Cookies",
+        "summary": "Chocolate Chip Cookie",
+        "flavors": ["chocolate", "vanilla"],
+        "calories": "200",
+        "ingredients": [
+            "flour",
+            "butter",
+            "chocolate chips"
+        ],
+        "dairy": true,
+        "allergens": ["dairy", "gluten", "eggs"]
+    }
+]

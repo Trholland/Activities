@@ -1,0 +1,113 @@
+[
+    {
+        "category": "Ice Cream",
+        "summary": "Hot Fudge Sundae",
+        "flavors": ["vanilla", "chocolate"],
+        "calories": 1350,
+        "ingredients": [
+            "vanilla ice cream",
+            "hot chocolate fudge",
+            "nuts"
+        ],
+        "dairy": true,
+        "allergens": ["dairy", "nuts"]
+    },
+    {
+        "category": "Ice Cream",
+        "summary": "Mint Chocolate Chip",
+        "flavors": ["mint", "chocolate"],
+        "calories": 300,
+        "ingredients": [
+            "mint ice cream",
+            "chocolate chips"
+        ],
+        "dairy": true,
+        "allergens": ["dairy"]
+    },
+    {
+        "category": "Ice Cream",
+        "summary": "Strawberry Sorbet",
+        "flavors": ["strawberry"],
+        "calories": 180,
+        "ingredients": [
+            "strawberry puree",
+            "sugar",
+            "water"
+        ],
+        "dairy": false,
+        "allergens": []
+    },
+    {
+        "category": "Ice Cream",
+        "summary": "Cookies and Cream",
+        "flavors": ["cookies", "cream"],
+        "calories": 350,
+        "ingredients": [
+            "cookies",
+            "vanilla ice cream"
+        ],
+        "dairy": true,
+        "allergens": ["dairy", "gluten"]
+    },
+    {
+        "category": "Ice Cream",
+        "summary": "Pistachio Ice Cream",
+        "flavors": ["pistachio"],
+        "calories": 400,
+        "ingredients": [
+            "pistachio nuts",
+            "cream"
+        ],
+        "dairy": true,
+        "allergens": ["dairy", "nuts"]
+    },
+    {
+        "category": "Ice Cream",
+        "summary": "Coffee Ice Cream",
+        "flavors": ["coffee"],
+        "calories": 320,
+        "ingredients": [
+            "coffee",
+            "cream",
+            "sugar"
+        ],
+        "dairy": true,
+        "allergens": ["dairy"]
+    },
+    {
+        "category": "Ice Cream",
+        "summary": "Chocolate Peanut Butter Swirl",
+        "flavors": ["chocolate", "peanut butter"],
+        "calories": 500,
+        "ingredients": [
+            "chocolate ice cream",
+            "peanut butter"
+        ],
+        "dairy": true,
+        "allergens": ["dairy", "peanuts"]
+    },
+    {
+        "category": "Ice Cream",
+        "summary": "Mango Coconut Ice Cream",
+        "flavors": ["mango", "coconut"],
+        "calories": 450,
+        "ingredients": [
+            "mango puree",
+            "coconut milk"
+        ],
+        "dairy": false,
+        "allergens": ["coconut"]
+    },
+    {
+        "category": "Ice Cream",
+        "summary": "Vanilla Bean Ice Cream",
+        "flavors": ["vanilla"],
+        "calories": 300,
+        "ingredients": [
+            "vanilla beans",
+            "cream"
+        ],
+        "dairy": true,
+        "allergens": ["dairy"]
+    }
+]
